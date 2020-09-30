@@ -1,0 +1,47 @@
+<div class="timedateposition">
+      <div class="time" id="time"></div>
+      <div class="date" id="date"></div>
+
+
+	  <!--Hindi Version (using Google Translate) code starts-->
+	  <div id="google_translate_element"></div>
+	  
+		<script type="text/javascript">
+			function googleTranslateElementInit()
+			{
+              new google.translate.TranslateElement(
+			  {pageLanguage: 'en', includedLanguages: 'en,hi', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+			}
+		</script>
+		
+		<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"> </script>
+	    <!--Hindi Version (using Google Translate) code ends-->
+
+      <!--<div class="hindiversion"><a href="http://nits.ac.in/hindi/index.php"><u>Hindi Version</u></a></div>-->
+	  
+		
+		<!--Google Custom Search -->
+		<script>
+		  (function() {
+			var cx = '007074271591241557631:yrslolauuuc';
+			var gcse = document.createElement('script');
+			gcse.type = 'text/javascript';
+			gcse.async = true;
+			gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(gcse, s);
+		  })();
+		</script>
+		<gcse:search></gcse:search>
+		<!--Google Custom Search -->
+
+   </div>
+
+
+
+
+
+
+
+
+   <iframe class="float-right" src="http://free.timeanddate.com/clock/i7h7ooli/n1826/tlin/fn17/tt0/tm1" frameborder="0" width="258" height="20"></iframe>
